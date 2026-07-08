@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Banner Estetik: Bisa diganti dengan GIF Lo-Fi Anime Coding pilihanmu -->
+<!-- Aesthetic Banner: Neon purple & black theme -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=250&section=header&text=FuzeHere&fontSize=80&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 ### 🌌 ようこそ (Welcome to My Digital Space)
@@ -15,57 +15,53 @@
 
 ## 🛠️ About Me
 
-Halo! Saya **FuzeHere**, seorang developer yang berfokus pada pengembangan aplikasi web modern yang interaktif, cepat, dan efisien. Saya suka memadukan fungsionalitas yang kuat dengan antarmuka yang bersih dan estetik. 
+Hey there! I'm **FuzeHere**, a developer passionate about building modern, interactive, and high-performance web applications. I love blending robust backend functionality with clean, aesthetic user interfaces.
 
-- ⚡ **Sedang sibuk dengan:** Mengembangkan aplikasi berbasis **Next.js** dan mengoptimalkan performa database.
-- 🎯 **Fokus saat ini:** Memperdalam arsitektur *microservices* dan otomatisasi *deployment*.
-- 👾 **Vibe Check:** Menyukai estetika minimalis modern dengan sentuhan *cyberpunk/anime*.
+- ⚡ **Currently busy with:** Crafting applications using **Next.js** and optimizing database performance.
+- 🎯 **Current focus:** Diving deeper into microservices architecture and deployment automation.
+- 👾 **Vibe Check:** Big fan of minimal modern designs with a sleek *cyberpunk/anime* twist.
 
 ---
 
 ## 🚀 Tech Stack
 
-### ⚡ Daily Drivers (Sering Digunakan)
+### ⚡ Daily Drivers
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### 🛠️ Familiar Tools (Beberapa Kali Digunakan)
+### 🛠️ Familiar Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=FuzeHere&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="FuzeHere's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuzeHere&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FuzeHere&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="FuzeHere's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuzeHere&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="43%" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/username-kamu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:email-kamu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/" target="https://www.linkedin.com/in/fairuz-istighfar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fairuzofficial7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=FuzeHere&color=7B2CBF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+</p>
