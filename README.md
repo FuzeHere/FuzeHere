@@ -42,11 +42,11 @@ Hey there! I'm **Fairuz Istighfar**, a developer passionate about building moder
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
+<!-- Upgraded to a highly stable Activity Graph with Tokyo Night theme to prevent proxy fetching errors -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FuzeHere&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="FuzeHere's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuzeHere&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="43%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FuzeHere&theme=tokyonight&bg_color=00000000&hide_border=true" alt="FuzeHere's GitHub Activity Graph" width="100%" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ Hey there! I'm **Fairuz Istighfar**, a developer passionate about building moder
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/" target="https://www.linkedin.com/in/fairuz-istighfar/">
+  <a href="https://www.linkedin.com/in/fairuz-istighfar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:fairuzofficial7@gmail.com">
