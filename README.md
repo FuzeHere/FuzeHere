@@ -19,6 +19,7 @@ Hey there! I'm **Fairuz Istighfar**, a developer passionate about building moder
 
 - ⚡ **Currently busy with:** Crafting applications using **Next.js** and optimizing database performance.
 - 🎯 **Current focus:** Diving deeper into microservices architecture and deployment automation.
+- 🎮 **Beyond the IDE:** A passionate anime fan and an avid gamer who loves diving into immersive virtual worlds and keeping up with the competitive esports scene.
 - 👾 **Vibe Check:** Big fan of minimal modern designs with a sleek *cyberpunk/anime* twist.
 
 ---
@@ -42,9 +43,37 @@ Hey there! I'm **Fairuz Istighfar**, a developer passionate about building moder
 
 ---
 
+## 🔮 Featured Projects
+
+### 🌌 Project SIDIAS
+> **An AI-powered computer vision platform designed for diagnostic data analysis.**
+- Built an advanced solution to train models and streamline complex visual data processing.
+- **Stack:** `Next.js` • `Tailwind CSS` • `Python` • `Docker`
+
+### 📱 Phone Repair Shop Web App
+> **A full-stack dashboard solution optimizing repair workflows and data tracking.**
+- Features an interactive admin dashboard, custom transaction logging, and integrated video tutorials.
+- **Stack:** `React` • `Next.js` • `PostgreSQL` • `Tailwind CSS`
+
+### ✍️ [Neo-TerbitKata Project](https://github.com/FuzeHere/Neo-TerbitKata_Project)
+> **A sleek, modern text-processing and creative wording application.**
+- Designed with a stylized, minimalist user interface tailored for seamless and distraction-free typographic interactions.
+- **Stack:** `React` • `Next.js` • `Tailwind CSS`
+
+### 🌙 [Neo-Kalender Hijriah](https://github.com/FuzeHere/Neo-Kalender-Hijriah)
+> **An aesthetic lunar calendar tracking Hijri dates with a vibrant dark-mode style.**
+- Implements responsive date tracking and smooth calculation algorithms wrapped in a clean frontend layout.
+- **Stack:** `React` • `Next.js` • `Tailwind CSS`
+
+### 🧺 [TuprakWeb-MIMLaundry](https://github.com/FuzeHere/TuprakWeb-MIMLaundry)
+> **A functional full-stack web application designed to streamline laundry management operations.**
+- Developed to handle core relational databases, log transactions, track customer orders, and update status logs efficiently.
+- **Stack:** `PHP` • `MySQL` • `Tailwind CSS`
+
+---
+
 ## 📊 GitHub Activity
 
-<!-- Upgraded to a highly stable Activity Graph with Tokyo Night theme to prevent proxy fetching errors -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FuzeHere&theme=tokyonight&bg_color=00000000&hide_border=true" alt="FuzeHere's GitHub Activity Graph" width="100%" />
 </p>
