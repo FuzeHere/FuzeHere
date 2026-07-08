@@ -15,7 +15,7 @@
 
 ## 🛠️ About Me
 
-Hey there! I'm **FuzeHere**, a developer passionate about building modern, interactive, and high-performance web applications. I love blending robust backend functionality with clean, aesthetic user interfaces.
+Hey there! I'm **Fairuz Istighfar**, a developer passionate about building modern, interactive, and high-performance web applications. I love blending robust backend functionality with clean, aesthetic user interfaces.
 
 - ⚡ **Currently busy with:** Crafting applications using **Next.js** and optimizing database performance.
 - 🎯 **Current focus:** Diving deeper into microservices architecture and deployment automation.
